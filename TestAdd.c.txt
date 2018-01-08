@@ -1,0 +1,4 @@
+main()
+{
+	printf("Hell-o-World!!!", "%s")
+}
