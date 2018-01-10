@@ -1,4 +1,4 @@
 main()
 {
-	printf("Hello World!/o", %s)
+  printf("Hello World!", "%s")
 }
